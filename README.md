@@ -21,4 +21,4 @@ THEN I am taken to the corresponding section of the README
 
 ![ScreenShot1](Develop\screenShots\screenshot1.JPG)
 
-![ScreenShot1](Develop\screenShots\screenshot2.JPG)
+![ScreenShot2](Develop\screenShots\screenshot2.JPG)
