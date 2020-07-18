@@ -20,7 +20,7 @@ function generateMarkdown(data) {
   - testing: The application requires: 
   ${data.testing} testing.
 
-  - contribution:
+  - contribution: The application needs the following contribution:
   ${data.contribute}
 
   ## Questions
