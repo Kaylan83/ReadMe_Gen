@@ -20,7 +20,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## video link
-[![creating readme video](https://drive.google.com/file/d/1eENRDhSvfFkOPWOHpKQR0aAFytfV1dj-/view)]
+[![creating readme video](Develop/screenShots/screenshot1.JPG)](https://drive.google.com/file/d/1eENRDhSvfFkOPWOHpKQR0aAFytfV1dj-/view)
 
 ![ScreenShot1](Develop/screenShots/screenshot1.JPG)
 
