@@ -19,8 +19,11 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-## Video link: 
+## Video link: click the image bellow to play video
 [![creating readme video](Develop/screenShots/screenshot1.JPG)](https://drive.google.com/file/d/1eENRDhSvfFkOPWOHpKQR0aAFytfV1dj-/view)
+
+
+
 
 
 ## ScreenShots: 
